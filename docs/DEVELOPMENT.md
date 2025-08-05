@@ -123,15 +123,15 @@ Follow conventional commit format:
 ### Backend Environment Variables
 ```bash
 NODE_ENV=development
-PORT=3001
-FRONTEND_URL=http://localhost:5173
+PORT=8001
+FRONTEND_URL=http://localhost:8080
 RATE_LIMIT_WINDOW_MS=900000
 RATE_LIMIT_MAX_REQUESTS=100
 ```
 
 ### Frontend Environment Variables
 ```bash
-VITE_API_URL=http://localhost:3001/api
+VITE_API_URL=http://localhost:8001/api
 ```
 
 ## Testing Strategy

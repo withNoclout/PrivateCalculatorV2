@@ -52,9 +52,9 @@ A modern web application for solving mathematical equations and matrix problems 
    ```
 
 5. **Access the application**
-   - Frontend: http://localhost:5173
-   - Backend API: http://localhost:3001
-   - API Documentation: http://localhost:3001/api/docs
+   - Frontend: http://localhost:8080
+   - Backend API: http://localhost:8001
+   - API Documentation: http://localhost:8001/api/docs
 
 ## 🏗️ Project Structure
 
